@@ -42,7 +42,7 @@ function App() {
 
   useEffect(() => {
     fetchQuote();
-  });
+  }, []);
 
   const handleNewQuote = () => {
     fetchQuote();
