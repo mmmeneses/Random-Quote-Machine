@@ -40,33 +40,33 @@ function App() {
     },
 
     {
-      text: '',
-      author: '',
+      text: 'I\'ve missed more than 9000 shots in my career. I\'ve lost almost 300 games. 26 times I\'ve been trusted to take the game winning shot and missed. I\ve failed over and over and over again in my life. And that is why I succeed.',
+      author: 'Michael Jordan',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'The most difficult thing is the decision to act, the rest is merely tenacity.',
+      author: 'Amelia Earhart',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Every strike brings me closer to the next home run.',
+      author: 'Babe Ruth',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Definiteness of purpose is the starting point of all achievement.',
+      author: 'W. Clement',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Life isn\'t about getting and having, it\'s about giving and being.',
+      author: 'Kevin Kruse',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Life is what happens to you while you’re busy making other plans.',
+      author: 'John Lennon',
     },
 
     {
