@@ -25,6 +25,206 @@ function App() {
     },
 
     {
+      text: 'Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.',
+      author: 'Robert Frost',
+    },
+
+    {
+      text: 'I attribute my success to this: I never gave or took any excuse.',
+      author: 'Florence Nightingale',
+    },
+
+    {
+      text: 'You miss 100% of the shots you don’t take.',
+      author: 'Wayne Gretzky',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
+      text: '',
+      author: '',
+    },
+
+    {
       text: '',
       author: '',
     },
