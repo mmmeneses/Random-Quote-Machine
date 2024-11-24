@@ -70,68 +70,68 @@ function App() {
     },
 
     {
-      text: '',
-      author: '',
+      text: 'We become what we think about.',
+      author: 'Earl Nightingale',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.',
+      author: 'Mark Twain',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Life is 10% what happens to me and 90% of how I react to it.',
+      author: 'Charles Swindoll',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'The most common way people give up their power is by thinking they don’t have any.',
+      author: 'Alice Walker',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'The mind is everything. What you think you become.',
+      author: 'Buddha',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'The best time to plant a tree was 20 years ago. The second best time is now.',
+      author: 'Chinese Proverb',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'An unexamined life is not worth living',
+      author: 'Socrates',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Eighty percent of success is showing up.',
+      author: 'Woody Allen',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Your time is limited, so don’t waste it living someone else’s life.',
+      author: 'Steve Jobs',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Winning isn’t everything, but wanting to win is.',
+      author: 'Vince Lombardi',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'I am not a product of my circumstances. I am a product of my decisions.',
+      author: 'Stephen Covey',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Every child is an artist.  The problem is how to remain an artist once he grows up.',
+      author: 'Pablo Picasso',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'You can never cross the ocean until you have the courage to lose sight of the shore.',
+      author: 'Christopher Columbus',
     },
 
     {
