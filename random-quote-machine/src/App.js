@@ -271,7 +271,7 @@ function App() {
     const initialQuote = getRandomQuote();
     setQuote(initialQuote.text);
     setAuthor(initialQuote.author);
-  }, [getRandomQuote]);
+  }, ['getRandomQuote']);
 
   const handleNewQuote = () => {
     const newQuote = getRandomQuote();
