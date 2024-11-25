@@ -1,1 +1,1 @@
-The Random Quote Machine is a simple yet engaging web application designed to inspire and entertain users with a variety of quotes. It fetches random quotes from a public API and display them along with their respective authors. Users can refresh to see a new quote at any time with just the click or a button.
+
