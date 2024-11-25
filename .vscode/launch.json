@@ -13,7 +13,7 @@
         }
     ],
 
-    "homepage": "http://mmmeneses.github.io/random-quote-machine",
+    "homepage": "https://mmmeneses.github.io/random-quote-machine/",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
