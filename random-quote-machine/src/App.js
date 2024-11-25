@@ -135,28 +135,28 @@ function App() {
     },
 
     {
-      text: '',
-      author: '',
+      text: 'I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.',
+      author: 'Maya Angelou',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Either you run the day, or the day runs you.',
+      author: 'Jim Rohn',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Whether you think you can or you think you can’t, you’re right.',
+      author: 'Henry Ford',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'The two most important days in your life are the day you are born and the day you find out why.',
+      author: 'Mark Twain',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it.',
+      author: 'Johann Wolfgang von Goethe',
     },
 
     {
