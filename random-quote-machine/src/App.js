@@ -160,53 +160,53 @@ function App() {
     },
 
     {
-      text: '',
-      author: '',
+      text: 'The best revenge is massive success.',
+      author: 'Frank Sinatra',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily.',
+      author: 'Zig Ziglar',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Life shrinks or expands in proportion to one\'s courage.',
+      author: 'Anais Nin',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.',
+      author: 'Vincent Van Gogh',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'There is only one way to avoid criticism: do nothing, say nothing, and be nothing.',
+      author: 'Aristotle',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.',
+      author: 'Jesus',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'The only person you are destined to become is the person you decide to be.',
+      author: 'Ralph Waldo Emerson',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Go confidently in the direction of your dreams.  Live the life you have imagined.',
+      author: 'Henry David Thoreau',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.',
+      author: 'Erma Bombeck',
     },
 
     {
-      text: '',
-      author: '',
+      text: 'Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.',
+      author: 'Booker T. Washington',
     },
 
     {
