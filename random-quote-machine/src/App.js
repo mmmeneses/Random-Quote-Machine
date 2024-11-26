@@ -583,7 +583,7 @@ function App() {
       <div id="quote-box">
         <p id="text">"{quote}"</p>
         <p id="author">- {author}</p>
-        <button id="new-quote" onClick={handleNewQuote} style={{ backgroundColor: bgColor, color: '#fff', border: 'none' }}>New Quote</button>
+        <button id="new-quote" onClick={handleNewQuote}>New Quote</button>
         <a
           id="tweet-quote"
           target="_top"
