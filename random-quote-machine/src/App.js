@@ -7,6 +7,7 @@ import './App.css';
 function App() {
   const [quote, setQuote] = useState('');
   const [author, setAuthor] = useState('');
+  const [bgColor, setBgColor] = useState('#ffffff');
 
   const quotes = [
     {
@@ -521,6 +522,8 @@ function App() {
 
   ]
   
+const colors = ['#FF5733', '#33FF57', '#3357FF', '#FF33A1', '#A133FF', '#33FFF2', '#f39c12', '#34495e', '#cb4335', '#6c3483', '#2980b9', '#16a085'];
+
   const getRandomQuote = () => {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     return quotes[randomIndex];
@@ -536,6 +539,10 @@ function App() {
     const newQuote = getRandomQuote();
     setQuote(newQuote.text);
     setAuthor(newQuote.author);
+
+    // color change to a new one
+    const randomColor = getRandomQuote(colors);
+    setBgColor(randomColor);
   };
 
   // https://api.quotable.io/random
@@ -576,7 +583,7 @@ function App() {
       <div id="quote-box">
         <p id="text">"{quote}"</p>
         <p id="author">- {author}</p>
-        <button id="new-quote" onClick={handleNewQuote}>New Quote</button>
+        <button id="new-quote" onClick={handleNewQuote} style={{ backgroundColor: bgColor, color: '#fff', border: 'none' }}>New Quote</button>
         <a
           id="tweet-quote"
           target="_top"
